@@ -1,5 +1,5 @@
 body {
-    background-color: bisque;
+    background-color: azure;
     color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
@@ -20,6 +20,6 @@ p {
     max-width: 800px; 
     text-align: center; 
 }
-image{
- width: 20px;
+ul{
+    text-align: left;
 }
